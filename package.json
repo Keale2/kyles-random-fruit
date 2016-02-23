@@ -1,0 +1,26 @@
+{
+  "name": "test-npm-thing",
+  "version": "1.0.0",
+  "description": "Get random fruit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keale2/test-npm-thing.git"
+  },
+  "keywords": [
+    "random",
+    "fruit"
+  ],
+  "author": "Kyle Wagner <Keale2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keale2/test-npm-thing/issues"
+  },
+  "homepage": "https://github.com/Keale2/test-npm-thing#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
