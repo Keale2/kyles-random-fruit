@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-thing",
+  "name": "kyles-random-fruit",
   "version": "1.0.0",
   "description": "Get random fruit",
   "main": "src/index.js",
