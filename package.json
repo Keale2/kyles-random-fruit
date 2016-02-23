@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Keale2/test-npm-thing.git"
+    "url": "git+https://github.com/Keale2/kyles-random-fruit.git"
   },
   "keywords": [
     "random",
@@ -17,9 +17,9 @@
   "author": "Kyle Wagner <Keale2@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Keale2/test-npm-thing/issues"
+    "url": "https://github.com/Keale2/kyles-random-fruit/issues"
   },
-  "homepage": "https://github.com/Keale2/test-npm-thing#readme",
+  "homepage": "https://github.com/Keale2/kyles-random-fruit#readme",
   "dependencies": {
     "unique-random-array": "^1.0.0"
   }
