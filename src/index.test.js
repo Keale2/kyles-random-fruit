@@ -19,6 +19,6 @@ describe('kyles-random-fruit', function () {
             var randomItem = kylesRandomFruit.random();
             expect(kylesRandomFruit.all).to.include(randomItem);
         });
-    })
+    });
     
 });
